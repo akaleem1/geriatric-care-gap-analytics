@@ -20,11 +20,8 @@ Synthetic multi‑table healthcare records integrated into a patient‑level dat
 - Segment membership adds predictive value to risk modeling  
 - Dashboard enables real‑time exploration of population insights
 
-## Relevance to Mount Sinai
-Supports population‑health analytics, geriatric risk stratification, and clinical decision support.
-
-## Relevance to Pfizer
-Highlights unmet need and care‑gap analytics for high‑burden, under‑utilizing cohorts.
+## Relevance to Healthcare Sector
+Supports population‑health analytics, geriatric risk stratification, and clinical decision support. Highlights unmet need and care‑gap analytics for high‑burden, under‑utilizing cohorts.
 
 ## Repository Structure
 geriatric-care-gap-analytics/
