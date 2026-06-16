@@ -1,0 +1,5 @@
+cluster,age,healthcare_expenses,healthcare_coverage,income,total_encounters,hospitalization_count,total_conditions,unique_conditions,total_medications,unique_medications,total_claims,total_observations,high_utilization_flag,high_comorbidity_flag,potential_care_gap_flag,hospitalization_flag
+0,97.84,36896.41,698848.36,20972.88,74.25,3.38,68.0,31.75,143.25,16.62,217.5,2255.5,0.38,0.5,0.0,0.75
+1,92.53,312439.67,610900.19,70273.0,377.33,2.0,200.33,42.0,755.33,16.0,1132.67,7939.0,1.0,1.0,0.0,0.67
+2,78.65,200954.63,285471.89,69007.37,47.42,0.68,35.79,22.47,31.37,8.53,78.79,657.89,0.05,0.05,0.0,0.37
+3,107.82,20829.18,2572940.88,10825.0,71.0,32.0,41.0,27.0,400.0,7.0,471.0,1985.0,1.0,0.0,0.0,1.0
